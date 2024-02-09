@@ -80,11 +80,15 @@ Feel free to use [emojis](https://docsify.js.org/#/emoji?id=emoji) or [icons](ht
 
 ### Linking resources
 
-When adding an external link, you can use it directly in the text or on the bottom of the page in "Resources" section.
+When adding an external link, you can use it directly in the text or on the bottom of the page in "Resources" section. 
+
+When linking resources use descriptive names, such as [ineviableeth.com](https://inevitableeth.com/) instead of generic phrases like [this wiki](https://inevitableeth.com/).
 
 When linking a page within this wiki, use a relative path and if it references specific topic within the page, use a link to heading IDs. 
 
-Don't overwhelm reader with too many resohttps://inevitableeth.com/urces within the text. For other important links, add a section on the bottom of the page with list of resources. Resources should have a name or short description with a link and alternative link to its archived mirror. We strongly suggest adding a link to the latest snapshot from archive.org. Example of a link in a resource section: 
+Don't overwhelm reader with too many resources within the text.
+
+For other important links, add a section on the bottom of the page with list of resources. Resources should have a name or short description with a link and alternative link to its archived mirror. We strongly suggest adding a link to the latest snapshot from archive.org. Example of a link in a resource section: 
 
 [JSON-RPC API reference](https://ethereum.org/en/developers/docs/apis/json-rpc), [archived](https://web.archive.org/web/20240117035335/https://ethereum.org/en/developers/docs/apis/json-rpc)
 
